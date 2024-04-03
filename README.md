@@ -2,7 +2,6 @@
 - 👀 I’m interested in becoming a front-end developer either with a company or freelance work.
 - 🌱 I’m currently learning HTML, CSS, Javascript & PHP
 - 💞️ I’m looking to collaborate a variety of websites to build my portfolio.
-- 📫 How to reach me ...
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I am an avid equestrian and spend a lot of my free time and summers with my horses. I also enjoy going out for hikes in the mountains.
 
